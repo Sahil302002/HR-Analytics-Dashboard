@@ -30,6 +30,8 @@ To develop an interactive and insightful **HR Analytics Dashboard** using **Powe
 4. **Custom Calculations**:
     - Used **DAX (Data Analysis Expressions)** to calculate attrition rates, average age, and other key metrics dynamically.
 
+![HR Dashboard ](https://github.com/user-attachments/assets/73a5bb2e-b034-4b62-bd4e-b576d64617b4)
+
 ## **Explanation of HR Dashboard**
 
 This HR Analytics Dashboard provides insights into various HR metrics, including attrition, employee demographics, job satisfaction, and education. Below is a detailed breakdown:
