@@ -1,13 +1,11 @@
-# Project Overview: HR Analytics Dashboard Using Power BI
+# HR Analytics Dashboard Using Power BI
 
-## **Objective**
-
-To develop an interactive and insightful **HR Analytics Dashboard** using **Power BI**, enabling the HR team to analyze key metrics such as attrition, employee demographics, job satisfaction, and education, and to make data-driven decisions.
+## **Project Overview**
+-To develop an interactive and insightful **HR Analytics Dashboard** using **Power BI**, enabling the HR team to analyze key metrics such as attrition, employee demographics, job satisfaction, and education, and to make data-driven decisions.
 
 Dataset which I use here <a href = "HR Data.csv">HR Dataset</a>
 
 Power BI File which I created <a href = "HR Dashboard.pbix">HR Dashboard Power BI File</a>
-
 
 ## **Dashboard Creation**:
 
